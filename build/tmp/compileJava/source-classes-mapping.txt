@@ -1,0 +1,6 @@
+easyPractice/CalculateMaxValue.java
+ easyPractice.CalculateMaxValue
+array/ReverseArray.java
+ array.ReverseArray
+array/CopyArray.java
+ array.CopyArray
