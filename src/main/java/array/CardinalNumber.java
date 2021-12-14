@@ -7,6 +7,10 @@ public class CardinalNumber {
 
     public static void main(String[] args) {
         int digits = 0;
+        String test;
+        ArrayList list = new ArrayList();
+
+
         String dChar = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         int cardinal = 0;
         char[] changedNumber = new char[32]; // int가 아니라 char형으로 선언
@@ -24,6 +28,8 @@ public class CardinalNumber {
             changedNumber[digits++] = dChar.charAt(number % cardinal);
             number /= cardinal;
         }
+
+
 
         System.out.println("== 결과 확인 ==");
         
