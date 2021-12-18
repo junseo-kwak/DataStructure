@@ -1,0 +1,8 @@
+easyPractice/CalculateMiddleValue.java
+ easyPractice.CalculateMiddleValue
+easyPractice/CalculateSumValueByGauss.java
+ easyPractice.CalculateSumValueByGauss
+easyPractice/CalculateMaxValue.java
+ easyPractice.CalculateMaxValue
+easyPractice/CalculateDigitNum.java
+ easyPractice.CalculateDigitNum
