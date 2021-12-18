@@ -1,8 +1,14 @@
-easyPractice/CalculateMiddleValue.java
- easyPractice.CalculateMiddleValue
-easyPractice/CalculateSumValueByGauss.java
- easyPractice.CalculateSumValueByGauss
 easyPractice/CalculateMaxValue.java
  easyPractice.CalculateMaxValue
+array/ReverseArray.java
+ array.ReverseArray
+array/CopyArray.java
+ array.CopyArray
+easyPractice/CalculateSumValueByGauss.java
+ easyPractice.CalculateSumValueByGauss
+easyPractice/CalculateMiddleValue.java
+ easyPractice.CalculateMiddleValue
 easyPractice/CalculateDigitNum.java
  easyPractice.CalculateDigitNum
+array/CardinalNumber.java
+ array.CardinalNumber
