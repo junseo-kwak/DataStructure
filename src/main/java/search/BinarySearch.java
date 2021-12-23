@@ -1,4 +1,5 @@
 package search;
+import java.util.Arrays;
 import java.util.Scanner;
 public class BinarySearch {
 
@@ -9,14 +10,19 @@ public class BinarySearch {
         System.out.print("찾고자하는 값 입력 : ");
         int targetNum = scanner.nextInt();
 
+        // 1.직접 구현
         System.out.println(binarySearchProc(targetArr,targetNum));
 
+        // 2. Arrays.BinarySearch() 사용
 
 
-
-
-
-
+//        int targetIdx = Arrays.binarySearch(targetArr,targetNum);
+//
+//        if(targetIdx < 0){
+//            System.out.println("찾는 값은 해당 배열안에 없습니다.");
+//        }else{
+//            System.out.println("해당 값은 " + targetIdx + "에 위치하고 있습니다.");
+//        }
 
     }
 
